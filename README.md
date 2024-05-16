@@ -1,4 +1,5 @@
 # Multiplicação de matrizes
+ALUNOS: Pedro Renato Binelo Briltes e Kellven Dias
 
 Define três matrizes A, B e C, onde:
 
